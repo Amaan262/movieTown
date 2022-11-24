@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/movieTown/static/css/main.34b995ac.css",
+    "main.js": "/movieTown/static/js/main.5fb80e8d.js",
+    "static/media/boxicons.svg": "/movieTown/static/media/boxicons.c17adb11d64fadd1cd5a.svg",
+    "static/media/footer-bg.jpg": "/movieTown/static/media/footer-bg.67e95f05e76a8cebf7e2.jpg",
+    "static/media/boxicons.eot": "/movieTown/static/media/boxicons.092b78589f3f53e60030.eot",
+    "static/media/boxicons.woff": "/movieTown/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
+    "static/media/boxicons.ttf": "/movieTown/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
+    "static/media/boxicons.woff2": "/movieTown/static/media/boxicons.8d765747a5588f36ff61.woff2",
+    "static/media/tmovie.png": "/movieTown/static/media/tmovie.e2807ee3663bcd4800e3.png",
+    "index.html": "/movieTown/index.html",
+    "main.34b995ac.css.map": "/movieTown/static/css/main.34b995ac.css.map",
+    "main.5fb80e8d.js.map": "/movieTown/static/js/main.5fb80e8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34b995ac.css",
+    "static/js/main.5fb80e8d.js"
+  ]
+}
