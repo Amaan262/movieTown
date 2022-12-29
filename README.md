@@ -13,4 +13,4 @@
 
 
 <h2>Preview</h2>
-![Screenshot](preview.png)
+![preview](https://user-images.githubusercontent.com/86087816/209936581-36bebf31-fba4-4608-b49c-cea638052e1a.png)
