@@ -13,4 +13,3 @@
 
 
 <h2>Preview</h2>
-![Screenshot](preview.png)
