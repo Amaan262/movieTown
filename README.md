@@ -11,3 +11,6 @@
 <br>
 <a href="https://moviestown.netlify.app/">Live Link</a>
 
+
+<h2>Preview</h2>
+<img src="src/assets/preview.png">
