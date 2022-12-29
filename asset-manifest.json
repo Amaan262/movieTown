@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.7a145dc2.css",
-    "main.js": "/static/js/main.40308dcb.js",
-    "static/media/boxicons.svg": "/static/media/boxicons.c17adb11d64fadd1cd5a.svg",
-    "static/media/footer-bg.jpg": "/static/media/footer-bg.67e95f05e76a8cebf7e2.jpg",
-    "static/media/boxicons.eot": "/static/media/boxicons.092b78589f3f53e60030.eot",
-    "static/media/boxicons.woff": "/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
-    "static/media/boxicons.ttf": "/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
-    "static/media/boxicons.woff2": "/static/media/boxicons.8d765747a5588f36ff61.woff2",
-    "static/media/tmovie.png": "/static/media/tmovie.e2807ee3663bcd4800e3.png",
-    "index.html": "/index.html",
-    "main.7a145dc2.css.map": "/static/css/main.7a145dc2.css.map",
-    "main.40308dcb.js.map": "/static/js/main.40308dcb.js.map"
+    "main.css": "/movietown/static/css/main.2b89702c.css",
+    "main.js": "/movietown/static/js/main.98407b8d.js",
+    "static/media/boxicons.svg": "/movietown/static/media/boxicons.c17adb11d64fadd1cd5a.svg",
+    "static/media/footer-bg.jpg": "/movietown/static/media/footer-bg.67e95f05e76a8cebf7e2.jpg",
+    "static/media/boxicons.eot": "/movietown/static/media/boxicons.092b78589f3f53e60030.eot",
+    "static/media/boxicons.woff": "/movietown/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
+    "static/media/boxicons.ttf": "/movietown/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
+    "static/media/boxicons.woff2": "/movietown/static/media/boxicons.8d765747a5588f36ff61.woff2",
+    "static/media/tmovie.png": "/movietown/static/media/tmovie.e2807ee3663bcd4800e3.png",
+    "index.html": "/movietown/index.html",
+    "main.2b89702c.css.map": "/movietown/static/css/main.2b89702c.css.map",
+    "main.98407b8d.js.map": "/movietown/static/js/main.98407b8d.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a145dc2.css",
-    "static/js/main.40308dcb.js"
+    "static/css/main.2b89702c.css",
+    "static/js/main.98407b8d.js"
   ]
 }
