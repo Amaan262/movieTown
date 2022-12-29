@@ -13,4 +13,8 @@
 
 
 <h2>Preview</h2>
+<<<<<<< HEAD
 ![Screenshot](preview.png)
+=======
+<img src="https://src/assets/preview.png">
+>>>>>>> 19f8947d1956ae6db48e18eab16d7d06fb565025
