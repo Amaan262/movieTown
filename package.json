@@ -1,11 +1,12 @@
 {
+  "homepage": "https://amaan262.github.io/movieTown",
   "name": "movietown",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
-    "@tesmvnting-library/user-event": "^13.5.0",
+    "@testing-library/user-event": "^13.5.0",
     "axios": "^0.27.2",
     "gh-pages": "^4.0.0",
     "query-string": "^7.0.1",
@@ -18,6 +19,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
