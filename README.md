@@ -13,4 +13,4 @@
 
 
 <h2>Preview</h2>
-<img src="src/assets/preview.png">
+![Screenshot](preview.png)
