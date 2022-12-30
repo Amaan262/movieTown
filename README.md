@@ -11,3 +11,10 @@
 <br>
 <a href="https://moviestown.netlify.app/">Live Link</a>
 
+
+## Preview
+
+![1](https://user-images.githubusercontent.com/86087816/210036860-533c8814-a2c7-4b11-add0-fed6f357fe22.png)
+
+![2](https://user-images.githubusercontent.com/86087816/210038622-1f23fd49-8646-4940-af86-8732127c0948.png)
+
